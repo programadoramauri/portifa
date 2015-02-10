@@ -1,2 +1,2 @@
 # portifa
-Criação do meu portifa e estudo de wordpress
+Esse &eacute; o reposit&oacute;rio do meu blog. Pretendo atrav&eacute;s daqui mostrar exemplos na pr&aacute;tica de modifica&ccedil;&otilde;es no Wordpress.
